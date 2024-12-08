@@ -313,16 +313,16 @@
         },
         {
             "name": "league/event",
-            "version": "3.0.0",
+            "version": "3.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/event.git",
-                "reference": "6d6d88d3c398f4e32995fccd4ec50a5bdaef131b"
+                "reference": "221867a61087ee265ca07bd39aa757879afca820"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/event/zipball/6d6d88d3c398f4e32995fccd4ec50a5bdaef131b",
-                "reference": "6d6d88d3c398f4e32995fccd4ec50a5bdaef131b",
+                "url": "https://api.github.com/repos/thephpleague/event/zipball/221867a61087ee265ca07bd39aa757879afca820",
+                "reference": "221867a61087ee265ca07bd39aa757879afca820",
                 "shasum": ""
             },
             "require": {
@@ -366,9 +366,9 @@
             ],
             "support": {
                 "issues": "https://github.com/thephpleague/event/issues",
-                "source": "https://github.com/thephpleague/event/tree/3.0.0"
+                "source": "https://github.com/thephpleague/event/tree/3.0.2"
             },
-            "time": "2020-09-29T17:42:28+00:00"
+            "time": "2022-10-29T09:31:25+00:00"
         },
         {
             "name": "league/flysystem",
@@ -3491,5 +3491,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
